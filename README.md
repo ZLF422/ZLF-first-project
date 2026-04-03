@@ -42,8 +42,7 @@
 - 管理员：负责所有信息的录入、修改和删除。
 
 ## 功能结构图
-<img width="1920" height="453" alt="b8082620a0dcdaa74b51bcfeaf8ee1e6" src="https://github.com/user-attachments/assets/cf8e6fcd-2b16-47c2-9072-c2167b4df8d9" />
-
+<img width="1560" height="227" alt="image" src="https://github.com/user-attachments/assets/e66bd341-7d2f-48ad-9a1c-9f92bf6c5de5" />
 
 ## 非功能需求
 - 使用简单的图形界面（如 Java Swing 或 Python Tkinter）。
